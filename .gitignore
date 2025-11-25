@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+
+venv/
+.venv/
+env/
+
+data/
+export_data/
+
+ext.ipynb
+
+
+
+test.csv
