@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Ejecucion de los tests unitarios (tests/)
+pytest==8.3.3

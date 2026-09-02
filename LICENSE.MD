@@ -1,3 +1,16 @@
+# Licencias
+
+Este repositorio se distribuye bajo licencia dual:
+
+- **Codigo** (notebook, `src/`, `tests/`, `docs/*.py`): licencia MIT, reproducida
+  integramente mas abajo.
+- **Contenido** (texto, tablas, graficos y conclusiones): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — se permite reutilizar
+  con atribucion.
+- **Datos de origen**: FitBit Fitness Tracker Data, CC0 1.0 (dominio publico),
+  publicado por Mobius. No se redistribuyen en este repositorio.
+
+---
+
 MIT License
 
 Copyright (c) 2025 Mauricio Villanueva
