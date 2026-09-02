@@ -9,3 +9,14 @@ data/*
 export_data/
 
 ext.ipynb
+req_info/
+
+# Caches de herramientas
+.pytest_cache/
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Entornos y editores
+.env
+.vscode/
+.idea/

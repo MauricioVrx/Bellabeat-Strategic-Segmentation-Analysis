@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Forzar texto y LF en los archivos que deben ser legibles por herramientas.
+# Evita que se guarden en UTF-16 desde PowerShell, que rompe pip y conda.
+*.txt   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.cfg   text eol=lf
+*.ipynb text eol=lf
+
+# Binarios
+*.png binary
+*.jpg binary
